@@ -52,8 +52,6 @@ body {
 
     z-index: 1;
 
-    /* top: 15%;
-    left: 50%; */
 }
 .player-piece.highlight {
     cursor: pointer;
